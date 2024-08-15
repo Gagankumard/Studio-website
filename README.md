@@ -13,3 +13,5 @@ This repository is a clone of the Duo-Studio website, created for [educational p
 
 ## Live Preview
 This webpage is hosted at 
+
+## MIT License
