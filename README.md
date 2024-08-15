@@ -1,4 +1,4 @@
-# Duo-Studio Website Clone
+# Duo-Studio Website Clone Link (Tap ME)[https://gagankumard.github.io/Studio-website/]
 
 This repository contains a clone of the Duo-Studio home webpage. The content and design of this website are the intellectual property of Duo Studio. Please note that cloning and hosting websites without proper authorization may infringe on copyright and intellectual property rights.
 
